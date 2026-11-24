@@ -35,8 +35,6 @@ Create prototypes, websites, apps, decks, images, and video with your team and A
 
 [Explore the workspace →](https://open-design.ai/)
 
-<a href="https://github.com/nexu-io/open-design"><img src="https://img.shields.io/github/stars/nexu-io/open-design?style=flat&amp;label=Stars&amp;color=24292f" alt="OpenDesign GitHub stars" /></a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -47,8 +45,6 @@ Create prototypes, websites, apps, decks, images, and video with your team and A
 Turn a reference video into editable motion graphics with your own brand kit. Recreate scenes, generate media, refine timing in Studio, and export an MP4. Bring your own agent and keys.
 
 [Explore openmotion →](https://open-design.ai/motion/)
-
-<a href="https://github.com/nexu-io/openmotion"><img src="https://img.shields.io/github/stars/nexu-io/openmotion?style=flat&amp;label=Stars&amp;color=24292f" alt="openmotion GitHub stars" /></a>
 
 </td>
 </tr>
@@ -63,8 +59,6 @@ Turn HTML, CSS, and data into real MP4s on your laptop. Start with a template, c
 
 [Explore html-video →](https://open-design.ai/html-video)
 
-<a href="https://github.com/nexu-io/html-video"><img src="https://img.shields.io/github/stars/nexu-io/html-video?style=flat&amp;label=Stars&amp;color=24292f" alt="html-video GitHub stars" /></a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -75,8 +69,6 @@ Turn HTML, CSS, and data into real MP4s on your laptop. Start with a template, c
 Create animations and edit motion on running HTML pages, component by component. Explore motion recipes and export CSS, React, Lottie, MP4, GIF, and more.
 
 [Explore the motion engine →](https://github.com/nexu-io/motion-anything#readme)
-
-<a href="https://github.com/nexu-io/motion-anything"><img src="https://img.shields.io/github/stars/nexu-io/motion-anything?style=flat&amp;label=Stars&amp;color=24292f" alt="motion-anything GitHub stars" /></a>
 
 </td>
 </tr>
@@ -91,8 +83,6 @@ Turn a prompt, a repository, or your files into a presentation-ready deck. Follo
 
 [Explore Codex Slides →](https://github.com/nexu-io/codex-slides#readme)
 
-<a href="https://github.com/nexu-io/codex-slides"><img src="https://img.shields.io/github/stars/nexu-io/codex-slides?style=flat&amp;label=Stars&amp;color=24292f" alt="Codex Slides GitHub stars" /></a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -103,8 +93,6 @@ Turn a prompt, a repository, or your files into a presentation-ready deck. Follo
 Official, lightweight plugin distribution for OpenDesign, starting with Codex Desktop and Codex CLI. Find supported workflows and setup instructions in the repository.
 
 [Explore the official plugins →](https://github.com/nexu-io/open-design-agent-plugins#readme)
-
-<a href="https://github.com/nexu-io/open-design-agent-plugins"><img src="https://img.shields.io/github/stars/nexu-io/open-design-agent-plugins?style=flat&amp;label=Stars&amp;color=24292f" alt="OpenDesign Agent Plugins GitHub stars" /></a>
 
 </td>
 </tr>
