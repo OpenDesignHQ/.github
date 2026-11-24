@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://open-design.ai">
+    <img src="https://raw.githubusercontent.com/nexu-io/open-design/main/docs/assets/readme-hero-design-agent.webp" alt="OpenDesign — The 1st Collaborative AI Design Agent Workspace" width="100%" />
+  </a>
+</p>
+
 <h1 align="center">OpenDesign</h1>
 
 <p align="center">
